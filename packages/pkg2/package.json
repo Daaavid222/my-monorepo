@@ -1,0 +1,15 @@
+{
+	"name": "pkg2",
+	"version": "1.0.0",
+	"description": "",
+	"type": "module",
+	"main": "index.js",
+	"module": "index.js",
+	"scripts": {
+		"dev": "node index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
+
